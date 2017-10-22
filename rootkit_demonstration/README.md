@@ -1,24 +1,24 @@
 # Linux Rootkit Desmonstration Codes
 
-These codes has study purposes and was demonstrated on [Sinergia Hangout](https://www.youtube.com/watch?v=NoWDcYu1cw0) on October 2nd. 
+These codes has study purposes and was demonstrated on [Sinergia Hangout](https://www.youtube.com/watch?v=NoWDcYu1cw0) on October 2nd. See the [slides apresentation](../Sinergia-outubro-2017.pdf).
 
-## hellokernelworld
+### hellokernelworld
 
 A simple hello world on kernel mode using LKM
 
-## get_sys_call_table
+### get_sys_call_table
 
 A simple LKM that demonstrate how to get sys_call_table base address dinamically
 
-## sys_call_hijack
+### sys_call_hijack
 
 A module that demonstrate how to hijack a sys_call
 
-## read_hook
+### read_hook
 
 A module to demonstrate how to hide files contents using a hook on read()
 
-## tiny_rootkit
+### tiny_rootkit
 
 A LKM rootkit for demonstration purposes.
 
