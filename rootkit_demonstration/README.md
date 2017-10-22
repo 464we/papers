@@ -23,7 +23,7 @@ A module to demonstrate how to hide files contents using a hook on read()
 A LKM rootkit for demonstration purposes.
 
 Features:
-- Give root on hooking setreuid()
+- Give root on hooked setreuid()
 - Launch a ICMP port-knocking backdoor
 
 ## Disclaimer
