@@ -28,4 +28,4 @@ Features:
 
 ## Disclaimer
 
-If you are searching for a real world rootkit see [Reptile](https://github.com/f0rb1dd3n/Reptile)
+If you are searching for a real world rootkit, see [Reptile](https://github.com/f0rb1dd3n/Reptile)
